@@ -1,0 +1,15 @@
+package:
+ name: sentani_mpkg
+ version: 0.1.2
+
+requirements:
+ build:
+  - python
+ run:
+  - python
+  - bokeh 
+  - seaborn 
+  - ipython-notebook
+  - scipy
+  - matplotlib
+  - pysentani
